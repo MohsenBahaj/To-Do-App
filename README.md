@@ -1,8 +1,47 @@
-# Flutter To-Do App
+<p align="center">
+  <img src="./images/screenshots/app%20poster.png" width="100%" alt="App Poster"/>
+</p>
 
-## Overview
+# 📝 Flutter To-Do App
 
-The Flutter To-Do app allows users to list and store tasks, set reminders, and customize alert times. Users can choose the reminder time (e.g., 5 minutes before the task) and set the frequency for daily, weekly, monthly, or yearly repetition. The app includes theme switching between dark and light modes and is optimized for iOS devices, with smooth animations for an enhanced user experience.
+A sleek, high-perfomance To-Do application built with **Flutter** and **SQFlite**. This project demonstrates a complete task management experience with local database persistence, customizable reminders, and a premium UI/UX design with theme support.
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td width="33.33%" align="center">
+        <img src="./images/screenshots/main%20page%20dark%20mode.png" width="90%" alt="Main Page"/><br/>
+        <b>Main Page</b>
+      </td>
+      <td width="33.33%" align="center">
+        <img src="./images/screenshots/add%20task%20light%20mode.png" width="90%" alt="Add Task Light"/><br/>
+        <b>Add Task Light</b>
+      </td>
+      <td width="33.33%" align="center">
+        <img src="./images/screenshots/add%20task%20dark%20mode.png" width="90%" alt="Add Task Dark"/><br/>
+        <b>Add Task Dark</b>
+      </td>
+    </tr>
+    <tr>
+      <td width="33.33%" align="center">
+        <img src="./images/screenshots/bottom%20sheet%20for%20task%20options.png" width="90%" alt="Task Options"/><br/>
+        <b>Task Options</b>
+      </td>
+      <td width="33.33%" align="center">
+        <img src="./images/screenshots/animation%20after%20any%20curd%20op%20on%20the%20task%20.png" width="90%" alt="CRUD Animation"/><br/>
+        <b>CRUD Animation</b>
+      </td>
+      <td width="33.33%" align="center">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## Features
 
